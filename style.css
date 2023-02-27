@@ -15,6 +15,7 @@
 }
 
 body {
+	height: 100vh;
 	background-color: var(--lgray);
 	font-family: 'Outfit', sans-serif;
 }
@@ -23,6 +24,7 @@ body {
 	align-items: center;
 	justify-content: center;
 	flex-direction: row;
+	height: 100%;
 }
 
 .card {
